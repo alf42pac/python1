@@ -1,4 +1,3 @@
-
 #Lesson4_6
 
 from itertools import islice, cycle, count
@@ -17,4 +16,3 @@ def alf(a, b, c):
         return "Ошибка ввода!"
 
 print(alf(input("Список начинается с - "), input("до - "), input("Количество повторений - ")))
-

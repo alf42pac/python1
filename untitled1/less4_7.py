@@ -1,4 +1,3 @@
-
 #Lesson4_7
 
 from itertools import count

@@ -1,4 +1,3 @@
-
 #Lesson4_5
 
 from functools import reduce

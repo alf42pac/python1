@@ -1,4 +1,3 @@
-
 #Lesson4_1
 
 from sys import argv
